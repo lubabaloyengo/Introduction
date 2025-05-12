@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(55, 96, 132);
+    font-family: 'Gill Sans MT', 'Calibri', 'Trebuchet MS';
+}
+
+h1, h3{
+ font-family: 'Share Tech', sans-serif;  
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    width: 350px;
+    height: 350px
+}
+
+.flag{
+    width: 600px;
+}
+
+li{
+    display: inline;
+    padding: 30px
+}
+
+a{
+    text-decoration: none;
+}
+
+a:visited{
+    color:rgb(86, 127, 138)
+}
+
+a:hover{
+    color:beige
+}
